@@ -3,4 +3,5 @@
 TEST_GROUP_RUNNER(test_group_1) {
   RUN_TEST_CASE(test_group_1, test1);
   RUN_TEST_CASE(test_group_1, test2);
+  RUN_TEST_CASE(test_group_1, test_reverse_words);
 }
