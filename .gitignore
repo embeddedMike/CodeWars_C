@@ -2,3 +2,10 @@ bin/
 .project
 .settings/
 .cproject
+CodeWars_C.cflags
+CodeWars_C.config
+CodeWars_C.creator
+CodeWars_C.creator.user
+CodeWars_C.cxxflags
+CodeWars_C.files
+CodeWars_C.includes
